@@ -26,10 +26,7 @@ SECRET_KEY = '139g4eqenhb%r#vtqkwt%f#@1^s(7y!*unzk4$35cu=hq4g!6k'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
-
-# Application definition
-
+#Application definition
 INSTALLED_APPS = [
     'blog',
     'django.contrib.admin',
